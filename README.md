@@ -8,7 +8,7 @@ You can install all required dependencies with a single command:
 
 ```bash
 pip install scikit-learn pandas matplotlib numpy notebook requests
-
+```
 ### Datasets
 Find the Traffic_Collisions_Open_Data_3719442797094142699.csv dataset at https://data.torontopolice.on.ca/datasets/TorontoPS::traffic-collisions-open-data-asr-t-tbl-001/explore?location=15.970166%2C-39.819624%2C1.92&showTable=true
 
